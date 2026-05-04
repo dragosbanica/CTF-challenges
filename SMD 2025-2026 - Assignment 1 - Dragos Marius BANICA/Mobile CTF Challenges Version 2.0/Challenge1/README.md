@@ -1,6 +1,6 @@
 # Mobile CTF Challenges Version 2.0 - Challenge 1/5
 
-This is the link for the recording: https://www.youtube.com/watch?v=LXA04vObwcc 
+This is the link for the recording: https://www.youtube.com/watch?v=LXA04vObwcc  
 The link for the CTF: https://ivrodriguez.com/mobile-ctf/
 
 After downloading the ipa file and using unzip, I started with the same strategy that I took for challenges in Version 1.0.
