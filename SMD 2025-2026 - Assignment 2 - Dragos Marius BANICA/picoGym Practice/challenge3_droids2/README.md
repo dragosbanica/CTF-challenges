@@ -1,6 +1,6 @@
 # Challenge 3 - droids2 
 
-The link for the recording: https://youtu.be/2y4h6JPaFiI
+The link for the recording: https://youtu.be/2y4h6JPaFiI  
 The link for the challenge: https://play.picoctf.org/practice?page=1&search=droids
 
 For this challenge I've used an android emulator in Android Studio and jadx-gui decompiller to look at the source code. 
