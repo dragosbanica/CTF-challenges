@@ -1,6 +1,6 @@
 # Challenge 4 - droids3
 
-The link for the recording: https://youtu.be/6Q29G6_JabE
+The link for the recording: https://youtu.be/6Q29G6_JabE  
 The link for the challenge: https://play.picoctf.org/practice?page=1&search=droids
 
 For this challenge I've gone thru the source code directly using jadx-gui and we can see in the FlagstuffHill class that the flag is supposed to be returned for any input 
