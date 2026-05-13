@@ -1,6 +1,6 @@
 # Challenge 2 - droids1
 
-The link for the recording: https://youtu.be/hW6S92oCgHM
+The link for the recording: https://youtu.be/hW6S92oCgHM  
 The link for the challenge: https://play.picoctf.org/practice?page=1&search=droids
 
 For this challenge I started to install the apk file on an emulator in Android Studio using adb: adb install one.apk 
